@@ -1,0 +1,52 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note {
+    font-size: 15px;
+    color: aquamarine;
+}
+
+body {
+    background-size: cover;
+}
+
+.div_speed {
+    float: left;
+}
+
+.div_speeeeeeeeeeeeed_img {
+    width: 200px;
+    border-radius: 100px;
+}
+
+#GASGASGAS {
+    font-size: 23px;
+    margin: 15px;
+}
+
+.divspeed {
+    float: right;
+}
+
+.divspeeeeeeeeeeeeed_img {
+    width: 200px;
+    border-radius: 100px;
+}
+
+#GAGASGAS {
+    font-size: 23px;
+    margin: 15px;
+}
+
+.play_button {
+    width: 600px;
+    font-size: 25px;
+}
+
+canvas {
+    border: 5px solid aqua;
+    border-radius: 50px;
+}
